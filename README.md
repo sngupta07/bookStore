@@ -1,5 +1,5 @@
 # bookStore
- it is desktop based application i.e. bookStore<br>
+ It is desktop based application i.e. bookStore<br>
  Here I used only one python library i.e. <b>Tkinter</b> for the graphics and 
  Used <b>Sqlite3</b> for database<>br
  In that application done following things:
